@@ -1,4 +1,4 @@
-# **Shoe Alert Requirements**
+# **Sneaker Alert Requirements**
 
 ### Search Bar:
 - input shoe name (can accept lowercase or uppercase or both)
